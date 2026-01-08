@@ -64,7 +64,9 @@ I also explore **computer vision and security-driven systems**, blending softwar
 | **College Website Clone** | Responsive clone of a college website | Layout design, Flexbox/Grid, responsive UI |
 | **Chess-JS-SCK** | JavaScript-based chess game implementation | Game logic, state management, event handling |
 | **SecureVote** | Secure remote voting system for India using encryption, face verification, and authentication | Secure system design, encryption concepts, biometric verification, CV integration |
+| **Anvi** | A food-wastage reduction app that connects excess food providers with NGOs or individuals in need. Users can post food details, and recipients can directly contact via WhatsApp with integrated Google Maps location support. | Social-impact system design, real-time communication, WhatsApp integration, location-based services |
 | **Bajaj Hackathon Project** | Hackathon-built application with front-end and Python backend | Full-stack exposure, rapid prototyping, teamwork |
+
 
 ---
 
